@@ -5,11 +5,11 @@ akrigline.com
 
 @font-face {
   font-family: 'Uvers-UltraCon-Thin';
-  src: url('../fonts/UversUltraConThin.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/UversUltraConThin.otf')  format('opentype'),
-        url('../fonts/UversUltraConThin.woff') format('woff'),
-        url('../fonts/UversUltraConThin.ttf')  format('truetype'),
-        url('../fonts/UversUltraConThin.svg#UniversLTStd-LightUltraCn') format('svg');
+  src: url('fonts/UversUltraConThin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/UversUltraConThin.otf')  format('opentype'),
+        url('fonts/UversUltraConThin.woff') format('woff'),
+        url('fonts/UversUltraConThin.ttf')  format('truetype'),
+        url('fonts/UversUltraConThin.svg#UniversLTStd-LightUltraCn') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -230,13 +230,13 @@ figure{
 }
 
 .first{
-	background-image: url(../img/img1.jpg);
+	background-image: url(img/img1.jpg);
 }
 
 .second{
-	background-image: url(../img/img3.jpg);
+	background-image: url(img/img3.jpg);
 }
 
 .third{
-	background-image: url(../img/img4.jpg);
+	background-image: url(img/img4.jpg);
 }
